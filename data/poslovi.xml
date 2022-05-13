@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+
+   <job>
+      <id>1</id>
+      <title>Agent tehničke podrške (češki jezik)</title>
+      <company>Transcom Worldwide</company>
+      <logo>../Images/Company-logos/transcom.png</logo>
+      <location>Beograd</location>
+      <description>Posao agenta tehničke korisničke podrške podrazumeva pružanje podrške klijentima, realizaciju zahteva korisnika i odgovaranje na njihove upite. Ovo je idealna prilika za kandidate koji vole dinamičan posao pun izazova i novih znanja.</description>
+   </job>
+
+   <job>
+      <id>2</id>
+      <title>Salesforce Administrator</title>
+      <company>PLANet Systems Group d.o.o.</company>
+      <logo>../Images/../Images/Company-logos/planetsystemsgroupdoo_logo_50.jpg</logo>
+      <location>Novi Sad</location>
+      <description>PLANet Systems Group™ is a growing family of experienced programmers and customer support professionals operating from Novi Sad, Serbia. We focus on two core markets: custom development and implementation of our web-based applications and support for scholarly societies and journals in their peer review and production processes.</description>
+   </job>
+
+   <job>
+      <id>3</id>
+      <title>Junior Frontend Developer</title>
+      <company>TX Services</company>
+      <logo>../Images/Company-logos/txservices1.png</logo>
+      <location>Beograd</location>
+      <description>Async, await, typed components and stage-0 proposals transpiled to production? Latest React version? You know your web vitals? Come and join our great team, write high-quality code, be confident to deploy continuously, and don't be afraid of automated tests.</description>
+   </job>
+
+   <job>
+      <id>4</id>
+      <title>React Developer</title>
+      <company>Artika Design Studio</company>
+      <logo>../Images/Company-logos/5e3abbe9a1efa_artikalogo.png</logo>
+      <location>Novi Sad</location>
+      <description>ARTIKA is Full Service Design Studio which provides services for renowned companies from Europe and North America for over a decade. Our dedication to creating outstanding solutions in optimal timeframes and a friendly atmosphere with the support of experienced colleagues might be exactly what you are looking for!</description>
+   </job>
+
+   <job>
+      <id>5</id>
+      <title>Quality Assurance (QA) Lead</title>
+      <company>KoBre Companies</company>
+      <logo>../Images/Company-logos/kobre companies logo.png</logo>
+      <location>Novi Sad</location>
+      <description>KoBre Companies is a Los Angeles, California-based group of companies in the financial services, venture capital, and software industries. We have offices and employees in California, Texas, and Nevada. We are expanding our footprint with the establishment of our newest office in Novi Sad, Serbia. Our Novi Sad office will serve as the software engineering headquarters for all of our companies.</description>
+   </job>
+
+   <job>
+      <id>6</id>
+      <title>Software Developer (C/C++)</title>
+      <company>Keba d.o.o.</company>
+      <logo>../Images/Company-logos/kebasrbija.jpg</logo>
+      <location>Novi Sad</location>
+      <description>KEBA d.o.o. Novi Sad is a subsidiary of the Austrian company KEBA AG, which was founded in 1968 in Linz, where are now the headquarters of the whole group. KEBA is today an international company whose success stems from technological innovations, precise standards of quality and dynamic approach and enthusiasm of its employees. Hence the company's slogan - "Automation by innovation" </description>
+   </job>
+
+   <job>
+      <id>7</id>
+      <title>Experienced Senior (Lead) Java Software Developer</title>
+      <company>Ximedes</company>
+      <logo>../Images/Company-logos/59f9cae560a55_ximedeswhitebg.jpg</logo>
+      <location>Novi Sad/Remote</location>
+      <description>Ximedes exists to allow a group of smart, friendly and ambitious professionals to work together on relevant and challenging software projects, to the delight of our clients and ourselves.
+
+         Ximedes creates better ways to manage and move money, helping banks to become Fintechs and helping public transport and organizations to become FareTechs.</description>
+   </job>
+
+   <job>
+      <id>8</id>
+      <title>Senior Frontend Developer (JavaScript/React/ReactNative)</title>
+      <company>Faye Business Systems Group</company>
+      <logo>../Images/Company-logos/faye.png</logo>
+      <location>Remote</location>
+      <description>Are you a Web Developer who is deeply passionate about the web and loves to make user experiences fascinating and dynamic? Do you possess technical creativity combined with strong coding skills, deep understanding of enterprise systems and know that our existing customers demand great things for their custom solutions?</description>
+   </job>
+
+   <job>
+      <id>9</id>
+      <title>Software Developer</title>
+      <company>3ap</company>
+      <logo>../Images/Company-logos/3ap.png</logo>
+      <location>Beograd, Kruševac, Novi Sad</location>
+      <description>3ap helps companies transform their business by accelerating their ambition.
+
+         Since 2014 our clients rely on 3ap to create human-centric digital solutions by bridging the gap between design space exploration and agile delivery. Headquartered in Zurich, we have around 60 professionals who give themselves to the fullest and constantly expand their competencies.</description>
+   </job>
+
+   <job>
+      <id>10</id>
+      <title>Middle Front End Web Developer</title>
+      <company>Citrus Systems</company>
+      <logo>../Images/Company-logos/5d5a998fb728d_citrusavatar.png</logo>
+      <location>Beograd</location>
+      <description>We are an IT company occupying a remarkable place in marketing, gaming and financial segments of the iGaming industry. Our products are successfully implemented in European, African and Latin American markets.
+
+         Ever since we first started, we have been driven to find the best solutions in everything we do. At the same time, we have been creating strong connections all over the world which has helped us to establish our presence in the industry.</description>
+   </job>
+
+   <job>
+      <id>11</id>
+      <title>.NET/Java Developer</title>
+      <company>SAP West Balkans d.o.o.</company>
+      <logo>../Images/Company-logos/sap_west_balkans.jpg</logo>
+      <location>Beograd</location>
+      <description>Our tech stack is contained from ASP.NET MVC, Web API, .NET/.NET Core, Angular 9, TypeScript, KnockoutJS, RequireJS, Bootstrap, Kafka, Hangfire, Entity Framework and MS SQL. We are open to hiring Java developers that would like to work on .NET stack.</description>
+   </job>
+
+   <job>
+      <id>12</id>
+      <title>Linux Support Engineer</title>
+      <company>Semaphore</company>
+      <logo>../Images/Company-logos/renderedtext.png</logo>
+      <location>Remote</location>
+      <description>As Semaphore's Linux Support Engineer, you will be providing first-class service and tech support to our customers. Our customers are very technical (developers) and we want someone that can interact with them at that level. Your responsibilities will include providing technical support, debugging integration issues, writing custom scripts, and occasionally teaching customers how to use Semaphore.</description>
+   </job>
+
+   <job>
+      <id>13</id>
+      <title>UI Designer</title>
+      <company>Semaphore</company>
+      <logo>../Images/Company-logos/renderedtext.png</logo>
+      <location>Beograd</location>
+      <description>We are looking for an experienced and talented UI designer to design and shape the look and feel of our web application. The ideal candidate will have experience working in close collaboration with developers, product designers, and UX designers. You will be able to make deliberate design decisions and to translate any given user-experience journey into a smooth and intuitive interaction.</description>
+   </job>
+
+   <job>
+      <id>13</id>
+      <title>UI Designer</title>
+      <company>Semaphore</company>
+      <logo>../Images/Company-logos/renderedtext.png</logo>
+      <location>Beograd</location>
+      <description>We are looking for an experienced and talented UI designer to design and shape the look and feel of our web application. The ideal candidate will have experience working in close collaboration with developers, product designers, and UX designers. You will be able to make deliberate design decisions and to translate any given user-experience journey into a smooth and intuitive interaction.</description>
+   </job>
+
+
+</jobs>

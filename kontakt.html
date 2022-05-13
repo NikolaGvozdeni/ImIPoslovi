@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="./Style/style.css">
+   <link rel="icon" href="./Images/logo-icon.svg">
+   <script src="./main.js"></script>
+   <title>IMIPoslovi.rs | Poslovi</title>
+</head>
+<body onload="getYear()">
+   
+    <!-- header -->
+   <div id="main-header">
+      <!-- brending -->
+         <div class="brending">
+            <a href="./index.html">
+               <img src="./Images/logo.svg" alt="compani logo" style="width: 40px;">
+               <h3 class="brand-name">IMI <span class="imi">Poslovi</span><span class="rs">.rs</span></h3>
+            </a>
+         </div>
+         <!-- navBar -->
+         <div class="nav-bar">
+            <ul>
+               <li><a href="./index.html">Pocetna</a></li>
+               <li><a href="./poslovi.html">Poslovi</a></li>
+               <li><a href="./kontakt.html">Kontakt</a></li>
+            </ul>
+         </div>
+         <!-- bell-notification -->
+         <div class="bell">
+            <img src="./Images/bell.png" alt="notification" class="bell-img" style="width: 30px;">
+            <div id="new-notification"></div>
+         </div>
+
+   </div>
+
+   <div style="width: 100%; height: 100px;"></div>
+
+   <div class="container">
+
+      <div class="contact">
+         <div class="contact-info">
+
+            <h2>Kontaktirajte nas putem:</h2>
+            <ul>
+               <li>Tel: 034-349-588</li>
+               <li>Tel: 060-40 20 548</li>
+               <li>Mail: imi.poslovi@kg.ac.rs</li>
+            </ul>
+            <h4>Nalazimo se:</h4>
+            <ul>
+               <li>Radoja Domanovića 12</li>
+               <li>Kragujevac 34000</li>
+            </ul>
+         </div>
+         <div class="contact-location">
+            <div class="map"></div>
+            <p>Idi na Google Maps <a class="link-maps" target="blank" href="https://www.google.rs/maps/place/%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BA%D0%B8+%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%82%D0%B5%D1%82+%D0%9A%D1%80%D0%B0%D0%B3%D1%83%D1%98%D0%B5%D0%B2%D0%B0%D1%86/@44.0159352,20.9029271,15.5z/data=!4m5!3m4!1s0x0:0x19a6929f05b3b699!8m2!3d44.0176235!4d20.9075376">ovde</a> </p>
+         </div>
+      </div>
+
+   </div>
+
+   
+
+   <footer>
+      <div class="info">
+         <div class="info-box">
+            <img src="./Images/logo-icon.svg" alt="Logo" >
+            <p>Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce.</p>
+         </div>
+         <div class="info-box">
+            <h3>Kontakt:</h3>
+            <ul>
+               <li>Tel: 034-349-588</li>
+               <li>Tel: 060-40 20 548</li>
+               <li>Mail: imi.poslovi@kg.ac.rs</li>
+               <li>Post: 34000 Kragujevac</li>
+            </ul>
+         </div>
+      </div>
+      <div class="copy">
+         <p>Copyright &copy; <span id="cpy-year"></span> &middot; Made in Kragujevac.</p>
+         <p>Sadržaj sajta je u vlasništvu kompanije IMI Poslovi. Zabranjeno je njegovo preuzimanje bez dozvole.</p>
+      </div>
+
+   </footer>
+
+</body>
+</html>

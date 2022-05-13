@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="./Style/style.css">
+   <link rel="icon" href="./Images/logo-icon.svg">
+   <script src="./main.js"></script>
+   <title>IMIPoslovi.rs | Poslovi</title>
+</head>
+<body onload="loadPoslovi()">
+   
+    <!-- header -->
+   <div id="main-header">
+      <!-- brending -->
+         <div class="brending">
+            <a href="./index.html">
+               <img src="./Images/logo.svg" alt="compani logo" style="width: 40px;">
+               <h3 class="brand-name">IMI <span class="imi">Poslovi</span><span class="rs">.rs</span></h3>
+            </a>
+         </div>
+         <!-- navBar -->
+         <div class="nav-bar">
+            <ul>
+               <li><a href="./index.html">Pocetna</a></li>
+               <li><a href="./poslovi.html">Poslovi</a></li>
+               <li><a href="./kontakt.html">Kontakt</a></li>
+            </ul>
+         </div>
+         <!-- bell-notification -->
+         <div class="bell">
+            <img src="./Images/bell.png" alt="notification" class="bell-img" style="width: 30px;">
+            <div id="new-notification"></div>
+         </div>
+
+   </div>
+   <div style="height: 80px; width: 100%;"></div>
+
+   <div class="container" id="poslovi">
+
+      <!-- poslovi -->
+
+   </div>
+
+   <div id="prikaz-posla">
+      <img  id="close" src="./Images/close.svg" alt="" >
+      <div id="posao-info-card">
+         <div id="posao-info">
+            <h2 id="naslov-posla"></h2>
+            <h4 id="naziv-kompanije"></h4>
+            <img src="./Images/pin.svg" alt=""><span id="lokacija"></span>
+            <h3>Opis posla:</h3>
+            <p id="opis-posla"></p>
+         </div>
+         <div id="posao-slika">
+            <img id="slika-kompanije" src="" alt="">
+         </div>
+      </div>
+   </div>
+
+   <footer>
+      <div class="info">
+         <div class="info-box">
+            <img src="./Images/logo-icon.svg" alt="Logo" >
+            <p>Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce.</p>
+         </div>
+         <div class="info-box">
+            <h3>Kontakt:</h3>
+            <ul>
+               <li>Tel: 034-349-588</li>
+               <li>Tel: 060-40 20 548</li>
+               <li>Mail: imi.poslovi@kg.ac.rs</li>
+               <li>Post: 34000 Kragujevac</li>
+            </ul>
+         </div>
+      </div>
+      <div class="copy">
+         <p>Copyright &copy; <span id="cpy-year"></span> &middot; Made in Kragujevac.</p>
+         <p>Sadržaj sajta je u vlasništvu kompanije IMI Poslovi. Zabranjeno je njegovo preuzimanje bez dozvole.</p>
+      </div>
+
+   </footer>
+
+</body>
+</html>
